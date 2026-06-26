@@ -8,6 +8,17 @@ FarmConnect is a web application developed for the Internet Programming 2 (ITNP2
 
 ---
 
+## Group Members
+
+| Student Name | Student Number |
+|---------------|----------------|
+| **Thabiso Vukile Manqele** | **22304903** |
+| Or Mnyayi | **22328534** |
+| Xulu O.S | **22222778** |
+| M Ntshangase | **22341705** |
+| SV Hlongwane | **21404935** |
+
+
 ## Project Overview
 
 FarmConnect provides a digital marketplace where:
@@ -148,17 +159,6 @@ node server.js
 - Payment Gateway Integration
 - Machine Learning Disease Detection
 
----
-
-## Group Members
-
-| Student Name | Student Number |
-|---------------|----------------|
-| **Thabiso Vukile Manqele** | **22304903** |
-| Or Mnyayi | **22328534** |
-| Xulu O.S | **22222778** |
-| M Ntshangase | **22341705** |
-| SV Hlongwane | **21404935** |
 
 ---
 
@@ -172,6 +172,3 @@ Department of Information and Communication Technology (ICT)
 
 ---
 
-## License
-
-This project was developed for academic purposes as part of the Diploma in Information Technology programme at Mangosuthu University of Technology.
