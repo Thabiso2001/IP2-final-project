@@ -59,7 +59,7 @@ FarmConnect provides a digital marketplace where:
 - Express.js
 
 ### Database
-- MySQL (mysql2)
+- MySQL (Xampp)
 
 ### Security
 - Helmet
